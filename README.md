@@ -8,19 +8,19 @@ iTopper was an educational startup founded on 2019 by Akash Kumar Saw. It aimed 
 
 ## Getting Started
 
-To get started with iTopper, simply download the iTopper.apk file from this repository and install it on your Android device. After installation, you can explore it.
+To get started with iTopper, simply download the iTopper.apk file from this repository and install it on your Android device. After installation.
 
 ## Features
 
-- Chapter Wise Live Quiz: Participate in daily Chapter Wise Live Quizzes for JEE & NEET, designed to challenge and test your knowledge.
+- **Chapter Wise Live Quiz:** Participate in daily Chapter Wise Live Quizzes for JEE & NEET, designed to challenge and test your knowledge.
 
-- Instant HandWritten Solutions: Get access to HandWritten Solutions of the Live Quiz Questions immediately after each quiz, aiding in learning and understanding.
+- **Instant HandWritten Solutions:** Get access to HandWritten Solutions of the Live Quiz Questions immediately after each quiz, aiding in learning and understanding.
 
-- Quiz Key Feature: Utilize the Quiz Key to access the answer of any one question in the Live Quiz, providing quick assistance when needed.
+- **Quiz Key Feature:** Utilize the Quiz Key to access the answer of any one question in the Live Quiz, providing quick assistance when needed.
 
-- Rich Study Materials: Choose from a collection of more than 80 best JEE & NEET Books & Study Materials available on iTopper, enhancing your exam preparation.
+- **Rich Study Materials:** Choose from a collection of more than 80 best JEE & NEET Books & Study Materials available on iTopper, enhancing your exam preparation.
 
-- iTopper Community: Engage with fellow iTopper users in the vibrant community, where you can share thoughts, discuss doubts, and collaborate on solutions.
+- **iTopper Community:** Engage with fellow iTopper users in the vibrant community, where you can share thoughts, discuss doubts, and collaborate on solutions.
 
 ## Personal Note
 During the journey of building and running iTopper, I made a life-changing decision in my junior year of high school. As a student in class 11th, I was deeply passionate about the idea behind iTopper and its potential to make a positive impact on JEE & NEET aspirants' lives.

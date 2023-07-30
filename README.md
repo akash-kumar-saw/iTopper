@@ -4,7 +4,7 @@
 
 ![iTopper Banner](https://lh3.googleusercontent.com/3a9I6O4p-y1ae0GbtWlIvhElA8Syjt1Eoi079HALuRMOFNfDnBRtAnkPHe14vToXiN4)
 
-iTopper was an educational startup founded on 2019 by Akash Kumar Saw. It aimed to help JEE and NEET aspirants excel in their exams. Despite facing challenges and setbacks, our app had successfully reached over 5,000 installs, demonstrating the value it brought to students' learning journey.
+iTopper was an educational startup founded on 2019 by Akash Kumar Saw. It aimed to help JEE and NEET aspirants excel in their exams. Despite facing challenges and setbacks, our app had successfully reached over 4,000 installs, demonstrating the value it brought to students' learning journey.
 
 ## Getting Started
 

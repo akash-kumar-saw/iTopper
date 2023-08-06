@@ -8,7 +8,7 @@ iTopper was an educational startup founded on 2019 by Akash Kumar Saw. It aimed 
 
 ## Getting Started
 
-To get started with iTopper, simply download the iTopper.apk file from this repository and install it on your Android device. After installation.
+To get started with iTopper, simply download the iTopper.apk file from this repository and install it on your Android device.
 
 ## Features
 

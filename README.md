@@ -1,6 +1,6 @@
 # iTopper - Play Live Quiz for JEE/NEET & Win Money
 
-**Welcome to the iTopper GitHub repository! This repository is for demostratrative and illustrative purposes only as iTopper has discontinued it's services on the year of 2020.**
+**Welcome to the iTopper GitHub repository! This repository is for demostratrative and illustrative purposes only as iTopper has discontinued it's services in the year of 2020.**
 
 ![iTopper Banner](https://lh3.googleusercontent.com/3a9I6O4p-y1ae0GbtWlIvhElA8Syjt1Eoi079HALuRMOFNfDnBRtAnkPHe14vToXiN4)
 

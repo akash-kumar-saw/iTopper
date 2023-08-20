@@ -1,10 +1,10 @@
 # iTopper - Play Live Quiz for JEE/NEET & Win Money
 
-**Welcome to the iTopper GitHub repository! This repository is for demostratrative and illustrative purposes only as iTopper has discontinued it's services in the year of 2020.**
+**Welcome to the iTopper GitHub repository! This repository is for demostratrative and illustrative purposes only as iTopper has discontinued its services in the year of 2020.**
 
 ![iTopper Banner](https://lh3.googleusercontent.com/3a9I6O4p-y1ae0GbtWlIvhElA8Syjt1Eoi079HALuRMOFNfDnBRtAnkPHe14vToXiN4)
 
-iTopper was an educational startup founded in 2019 by Akash Kumar Saw. It aimed to help JEE and NEET aspirants excel in their exams. Despite facing challenges and setbacks, our app had successfully reached over 4,000 installs, demonstrating the value it brought to students' learning journey.
+iTopper was an educational startup founded in 2019 by Akash Kumar Saw. It aimed to help JEE and NEET aspirants excel in their exams. Despite facing challenges and setbacks, our app had successfully reached over 4,000 installs, demonstrating the value it brought to students' learning journey. Unfortunately, iTopper has discontinued its services in the year of 2020.
 
 ## Getting Started
 
